@@ -1,16 +1,6 @@
 <h4 align="left">About me</h4>
-<h5 style="font-weight: 300;">I am currently studying to become a front end developer. In my free time I produce music with Ableton, read, watch movies, train and many other things ..</h5>
-
-<p align="center">
-    <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
-            height="400"></a>
-</p>
-
-<h4>Languages and Tools &#128296</h4>
-
-<h4 align="left">About me</h4>
 <h5 style="font-weight: 300;">I am currently studying to become a front end developer. In my free time I produce music
-    with Ableton, read, watch movies, train and many other things ..</h5>
+    with, read, watch movies, train and many other things ..</h5>
 
 <p align="center">
     <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
