@@ -1,6 +1,5 @@
 <h3 align="left">About me</h3>
-I am currently studying to become a front end developer. In my free time I produce music
-    with, read, watch movies, train and many other things ..
+I am currently studying to become a front end developer.
 
 <p align="center">
     <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
@@ -9,7 +8,7 @@ I am currently studying to become a front end developer. In my free time I produ
 
 <h3>Languages and Tools &#128296</h3>
 
-<div style="display: flex; justify-content: space-around">
+<p align="center" style="margin: 40px;">
     <img style="width: 40px;"
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/47e4a69724ab28b4bb77e2a369505d8ddd69a07b/icons/html5.svg"
         alt="">
@@ -32,4 +31,7 @@ I am currently studying to become a front end developer. In my free time I produ
     </img><img style="width: 40px;" src="https://unpkg.com/simple-icons@6.9.0/icons/microsoftoffice.svg" alt="">
     </img><img style="width: 40px;" src="https://unpkg.com/simple-icons@6.9.0/icons/powershell.svg" alt="">
     </img><img style="width: 40px;" src="https://unpkg.com/simple-icons@6.9.0/icons/abletonlive.svg" alt="">
-</div>
+</p>
+
+
+<h3>Connect with me</h3>
