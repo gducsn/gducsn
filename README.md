@@ -1,4 +1,4 @@
-<img src="https://github.com/gducsn/gducsn/blob/main/header/02.png?raw=true" alt="">
+<img src="https://github.com/gducsn/gducsn/blob/main/header/05.png?raw=true" alt="">
 
 <h3 align="left">About me</h3>
 I am currently studying to become a front end developer.
