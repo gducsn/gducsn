@@ -10,7 +10,7 @@ I am currently studying to become a front end developer.
 
 <h3>Languages and Tools &#128296</h3>
 
-<p align="center" style="margin: 40px;">
+<p align="left" style="margin: 40px;">
     <img style="width: 40px; margin: 10px;"
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/47e4a69724ab28b4bb77e2a369505d8ddd69a07b/icons/html5.svg"
         alt="">
