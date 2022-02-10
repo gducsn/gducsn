@@ -37,8 +37,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 
 
 <h3>Connect with me</h3>
+ </img><img style="width: 40px; margin: 10px;" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="">
 
-In my free time I produce music, read, train and watch tons of movies.
 
 ###
 ###
