@@ -1,13 +1,3 @@
-<h4 align="left">About me</h4>
-<h5 style="font-weight: 300;">I am currently studying to become a front end developer. In my free time I produce music
-    with, read, watch movies, train and many other things ..</h5>
-
-<p align="center">
-    <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
-            height="400"></a>
-</p>
-
-<h4>Languages and Tools &#128296</h4>
 <div style="display: flex; justify-content: space-around">
     <img style="width: 40px;"
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/47e4a69724ab28b4bb77e2a369505d8ddd69a07b/icons/html5.svg"
@@ -40,7 +30,7 @@
         src="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWljcm9zb2Z0IE9mZmljZTwvdGl0bGU+PHBhdGggZD0iTTIxLjUzIDQuMzA2djE1LjM2M3EwIC44MDctLjQ3MiAxLjQzMy0uNDcyLjYyNy0xLjI1My44NWwtNi44ODggMS45NzRxLS4xMzYuMDM3LS4yOS4wNTUtLjE1Ni4wMTktLjI5My4wMTktLjM5NiAwLS43Mi0uMTA1LS4zMjEtLjEwNi0uNjU2LS4yOTJsLTQuNTA1LTIuNTQ0cS0uMjQ4LS4xMzctLjM5MS0uMzY2LS4xNDMtLjIzLS4xNDMtLjUxNSAwLS40MzQuMzA0LS43MzguMzA0LS4zMDUuNzM5LS4zMDVoNS44MzFWNC45NjRsLTQuMzggMS41NjNxLS41MzMuMTg3LS44NTYuNjU4LS4zMjIuNDcyLS4zMjIgMS4wM3Y4LjA3OHEwIC40OTYtLjI0OC45MTItLjI1LjQxNi0uNjgzLjY1MWwtMi4wNzIgMS4xM3EtLjI4Ni4xNDgtLjU3MS4xNDgtLjQ5NyAwLS44NDQtLjM0Ny0uMzQ4LS4zNDctLjM0OC0uODQ0VjYuNTYzcTAtLjYyLjMzLTEuMTkuMzI4LS41NzEuODc0LS44ODFMMTEuMDcuMjg1cS4yNDgtLjEzNi41MzQtLjIxLjI4NS0uMDc1LjU3LS4wNzUuMjExIDAgLjM4LjAzMS4xNjYuMDMxLjM2NC4wOTNsNi44ODggMS44OTlxLjM4NC4xMS43LjMyOS4zMTcuMjE3LjU0Ny41Mi4yMy4zMDUuMzUzLjY3LjEyNS4zNjcuMTI1Ljc2NHptLTEuNTg4IDE1LjM2M1Y0LjMwNnEwLS4yNzMtLjE2LS40NzgtLjE2My0uMjA0LS40MjMtLjI4bC0zLjM4OC0uOTNxLS4zOTctLjExMS0uNzk0LS4yMy0uMzk3LS4xMTctLjc5NC0uMjE2djE5LjY4bDQuOTc2LTEuNDI3cS4yNi0uMDc0LjQyMi0uMjguMTYxLS4yMDQuMTYxLS40Nzd6Ii8+PC9zdmc+"
         alt="">
     </img><img style="width: 40px;"
-        src="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UG93ZXJTaGVsbDwvdGl0bGU+PHBhdGggZD0iTTIzLjE4MSAyLjk3NGMuNTY4IDAgLjkyMy40NjMuNzkyIDEuMDM1bC0zLjY1OSAxNS45ODJjLS4xMy41NzItLjY5NyAxLjAzNS0xLjI2NSAxLjAzNUguODE5Yy0uNTY4IDAtLjkyMy0uNDYzLS43OTItMS4wMzVMMy42ODYgNC4wMDljLjEzLS41NzIuNjk3LTEuMDM1IDEuMjY1LTEuMDM1em0tOC4zNzUgOS4zNDZjLjI1MS0uMzk0LjIyNy0uOTA1LS4wOS0xLjI0M0w5LjEyMiA1LjEyNWMtLjM4LS40MDQtMS4wMzctLjQwNy0xLjQ2Ni0uMDAzLS40MjkuNDAyLS40NjggMS4wNTYtLjA4OCAxLjQ2bDQuNjYyIDQuOTZ2LjExbC03LjQyIDUuMzc0Yy0uNDUuMzI3LS41MzMuOTc3LS4xODcgMS40NTMuMzQ2LjQ3Ni45OTEuNTk3IDEuNDQuMjdsOC4yMjktNS45MWMuMjgtLjE5Ni40MzgtLjM2NS41MTQtLjUyem0tMi43OTYgNC4zOTlhLjkyOC45MjggMCAwMC0uOTM0LjkyM2MwIC41MS40MTguOTIzLjkzNC45MjNoNC40MzNhLjkyOC45MjggMCAwMC45MzQtLjkyMy45MjguOTI4IDAgMDAtLjkzNC0uOTIzeiIvPjwvc3ZnPg=="
+        src="https://unpkg.com/simple-icons@6.9.0/icons/powershell.svg"
         alt="">
     </img><img style="width: 40px;"
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/47e4a69724ab28b4bb77e2a369505d8ddd69a07b/icons/abletonlive.svg"
