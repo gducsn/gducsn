@@ -11,7 +11,6 @@ I am currently studying to become a front end developer. In the meantime, I prod
 </p>
 <br>
 <br>
-<br>
 <h3>Languages and Tools &#128296</h3>
 <br>
 <br>
@@ -41,9 +40,11 @@ I am currently studying to become a front end developer. In the meantime, I prod
     </img><img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/powershell.svg" alt="">
     </img><img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/abletonlive.svg" alt="">
 </p>
-
+<br>
+<br>
 
 <h3>Connect with me</h3>
+<br>
 <br>
 <br>
  <a href="https://www.instagram.com/gducsn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"
