@@ -37,5 +37,5 @@ I am currently studying to become a front end developer.
 <h3>Connect with me</h3>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn&show_icons=true&theme=radical)
 
