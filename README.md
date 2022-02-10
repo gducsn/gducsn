@@ -44,7 +44,9 @@ I am currently studying to become a front end developer. In the meantime, I prod
             src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
             alt="Gmail" /></a>
 
-
+<br>
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn&show_icons=true&theme=dark)
 ###
