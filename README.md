@@ -38,6 +38,12 @@ I am currently studying to become a front end developer.
 
 <h3>Connect with me</h3>
 
+In my free time I produce music, read, train and watch tons of movies.
+
+###
+###
+###
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn&show_icons=true&theme=dark)
 ###
