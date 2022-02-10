@@ -1,6 +1,5 @@
 <h4 align="left">About me</h4>
-<h5 style="font-weight: 400;">I am currently studying to become a front end developer. In my spare time I produce music with Ableton and many
-    other things...</h5>
+<h5 style="font-weight: 300;">I am currently studying to become a front end developer. In my free time I produce music with Ableton, read, watch movies, train and many other things ..</h5>
 
 <p align="center">
     <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
