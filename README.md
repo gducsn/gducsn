@@ -37,7 +37,7 @@ I am currently studying to become a front end developer.
 <h3>Connect with me</h3>
 <p align="center">
 	
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 
 	
 </p>
