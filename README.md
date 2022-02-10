@@ -1,5 +1,5 @@
 <h4 align="left">About me</h4>
-<h5 style="font-family:'Courier New', Courier, monospace">I am currently studying to become a front end developer. In my spare time I produce music with Ableton and many
+<h5 style="font-weight: 400;">I am currently studying to become a front end developer. In my spare time I produce music with Ableton and many
     other things...</h5>
 
 <p align="center">
