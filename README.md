@@ -37,7 +37,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 
 
 <h3>Connect with me</h3>
- <a href="https://www.instagram.com/gducsn/</img><img" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="">
+ <a href="https://www.instagram.com/gducsn/<img" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="">
+  
 
 
 ###
