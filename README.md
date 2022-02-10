@@ -1,6 +1,6 @@
 <img src="https://github.com/gducsn/gducsn/blob/main/header/05.png?raw=true" alt="">
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me 📖</h3>
 
 I am currently studying to become a front end developer. In the meantime, I produce music when I feel like it, I read, I train and I watch a lot of movies.
 
