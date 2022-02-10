@@ -40,6 +40,10 @@ I am currently studying to become a front end developer. In the meantime, I prod
  <a href="https://www.instagram.com/gducsn/"><img
             src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"
             alt="Instagram" /></a>
+  
+ <a href="https://github.com/gducsn"><img
+            src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
+            alt="GitHub" /></a>
 
 
 ###
