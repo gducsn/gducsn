@@ -1,14 +1,21 @@
 <img src="https://github.com/gducsn/gducsn/blob/main/header/05.png?raw=true" alt="">
 
 <h3 align="left">About me</h3>
+<br>
+
 I am currently studying to become a front end developer. In the meantime, I produce music when I feel like it, I read, I train and I watch a lot of movies.
 
 <p align="center">
     <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
             height="400"></a>
 </p>
-
+<br>
+<br>
+<br>
 <h3>Languages and Tools &#128296</h3>
+<br>
+<br>
+<br>
 
 <p align="left" style="margin: 40px;">
     <img style="width: 40px; margin: 10px;"
@@ -37,6 +44,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 
 
 <h3>Connect with me</h3>
+<br>
+<br>
  <a href="https://www.instagram.com/gducsn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"
             alt="Instagram" /> </a> <a href="https://github.com/gducsn"><img
             src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
