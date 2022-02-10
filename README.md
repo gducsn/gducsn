@@ -36,6 +36,7 @@ I am currently studying to become a front end developer.
 
 <h3>Connect with me</h3>
 
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn&show_icons=true&theme=radical)
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gducsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
