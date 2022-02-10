@@ -1,6 +1,6 @@
 <h3 align="left">About me</h3>
-<h5 style="font-weight: 300;">I am currently studying to become a front end developer. In my free time I produce music
-    with, read, watch movies, train and many other things ..</h5>
+I am currently studying to become a front end developer. In my free time I produce music
+    with, read, watch movies, train and many other things ..
 
 <p align="center">
     <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
