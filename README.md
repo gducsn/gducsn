@@ -21,6 +21,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 </img>
 <img src="https://img.shields.io/badge/javascript-JS-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://javascript.info/" alt="">
 </img>
+<img src="https://img.shields.io/badge/GITHUB-GIT-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://github.com/" alt="">
+</img>
       
     
     
