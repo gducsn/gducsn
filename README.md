@@ -15,10 +15,12 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <br>
 
 <p align="left">
-<a href="https://it.wikipedia.org/wiki/HTML5">
+<a href="https://it.wikipedia.org/wiki/HTML5" target="_blank">
 <img src="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link="></img></a>
-
-
+<a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank">
+<img src="https://img.shields.io/badge/CSS-3-black?style=for-the-badge&logo=appveyor?link=http://left&link="></img></a>
+<a href="https://javascript.info/" target="_blank">
+<img src="https://img.shields.io/badge/javascript-JS-black?style=for-the-badge&logo=appveyor?link="></img></a>
       
     
     
