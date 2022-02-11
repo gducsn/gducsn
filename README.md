@@ -39,11 +39,13 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <h3>Connect with me ⛓</h3>
 
 <br>
-<img src="https://img.shields.io/badge/INSTAGRAM-IG-black?style=for-the-badge&logo=appveyor?link=https://www.instagram.com/gducsn" alt="">
-</img>
-<img src="https://img.shields.io/badge/EMAIL-GMAIL-black?style=for-the-badge&logo=appveyor?link=mailto:gducsngmail.com" alt="">
-</img>
+<p align="left">
 
+<a href="https://www.instagram.com/gducsn" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-IG-black?style=for-the-badge&logo=appveyor?link="></img></a>
+<a href="mailto:gducsngmail.com" target="_blank">
+<img src="https://img.shields.io/badge/EMAIL-GMAIL-black?style=for-the-badge&logo=appveyor?link="></img></a>
+</p>
 
 <br>
 <br>
