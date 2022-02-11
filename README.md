@@ -43,12 +43,11 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <h3>Connect with me ⛓</h3>
 
 <br>
- <a href="https://www.instagram.com/gducsn/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"
-            alt="Instagram" /> </a> <a href="https://github.com/gducsn"><img
-            src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
-            alt="GitHub" /></a> <a href="mailto:gducsngmail.com"><img img
-            src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
-            alt="Gmail" /></a>
+<img src="https://img.shields.io/badge/INSTAGRAM-IG-black?style=for-the-badge&logo=appveyor?link=https://www.instagram.com/gducsn" alt="">
+</img>
+<img src="https://img.shields.io/badge/EMAIL-GMAIL-black?style=for-the-badge&logo=appveyor?link=mailto:gducsngmail.com" alt="">
+</img>
+
 
 <br>
 <br>
