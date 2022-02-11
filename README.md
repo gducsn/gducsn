@@ -15,9 +15,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <br>
 
 <p align="left" style="margin: 40px;">
-    <img style="width: 40px; margin: 10px;"
-        src="https://raw.githubusercontent.com/simple-icons/simple-icons/47e4a69724ab28b4bb77e2a369505d8ddd69a07b/icons/html5.svg"
-        alt="">
+    <img src="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://it.wikipedia.org/wiki/HTML5"alt="">
     </img>
     <img style="width: 40px; margin: 10px;"
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/47e4a69724ab28b4bb77e2a369505d8ddd69a07b/icons/css3.svg"
