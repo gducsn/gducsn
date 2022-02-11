@@ -5,10 +5,9 @@
 I am currently studying to become a front end developer. In the meantime, I produce music when I feel like it, I read, I train and I watch a lot of movies.
 
 <p align="center">
-    <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
-            height="400"></a>
-    <a href="#"><img src="" alt="Coder GIF" width="500"
-            height="400"></a>
+
+    <a href="#"><img src="https://github.com/gducsn/gducsn/blob/main/header/00.png?raw=true" alt="Coder GIF" width="500"
+            height="300"></a>
 
 </p>
 <br>
