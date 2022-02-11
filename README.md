@@ -25,22 +25,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
     <img src="https://img.shields.io/badge/javascript-JS-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://javascript.info/" alt="">
     </img>
     
-    <img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/visualstudio.svg" alt="">
-    </img>
     
-    <img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/github.svg" alt="">
-    </img>
-    
-    <img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/adobeaftereffects.svg" alt="">
-    </img>
-    
-    <img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/adobephotoshop.svg" alt="">
-    
-    </img><img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/microsoftoffice.svg" alt="">
-    
-    </img><img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/powershell.svg" alt="">
-    
-    </img><img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/abletonlive.svg" alt="">
 </p>
 <br>
 <br>
