@@ -15,22 +15,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <br>
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://it.wikipedia.org/wiki/HTML5"alt="">
-</img>
+<img>
 <a href="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://it.wikipedia.org/wiki/HTML5">
-<img src="https://img.shields.io/badge/CSS-3-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/"alt="">
-</img>
-<img src="https://img.shields.io/badge/javascript-JS-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://javascript.info/" alt="">
-</img>
-<img src="https://img.shields.io/badge/GITHUB-GIT-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://github.com/" alt="">
-</img>
-<img src="https://img.shields.io/badge/Adobe%20-AAE-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Adobe_After_Effects" alt="">
-</img>
-<img src="https://img.shields.io/badge/Adobe%20-PH-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Adobe_Photoshop" alt="">
-</img>
-<img src="https://img.shields.io/badge/OFFICE%20-MSOffice-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Microsoft_Office" alt="">
-</img>
-<img src="https://img.shields.io/badge/ABLETON%20-LIVE-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Ableton_Live" alt="">
 </img>
 
 
