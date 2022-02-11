@@ -34,7 +34,6 @@ I am currently studying to become a front end developer. In the meantime, I prod
 
 <h3>Connect with me ⛓</h3>
 
-<br>
 <p align="left">
 
 <a href="https://www.instagram.com/gducsn" target="_blank">
@@ -45,7 +44,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
 
 <br>
 <br>
-<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn&show_icons=true&theme=dark)
 ###
