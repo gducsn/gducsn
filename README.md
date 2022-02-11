@@ -31,7 +31,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
 </p>
 
 <br>
-
+<br>
 <h3>Connect with me ⛓</h3>
 
 <p align="left">
@@ -46,7 +46,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <br>
 <br>
 <br>
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gducsn&show_icons=true&theme=dark)
 ###
