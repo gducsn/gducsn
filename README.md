@@ -15,9 +15,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <br>
 
 <p align="left">
-<img>
-<a href="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://it.wikipedia.org/wiki/HTML5">
-</img>
+<a href="https://it.wikipedia.org/wiki/HTML5">
+<img src="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link="></img></a>
 
 
       
