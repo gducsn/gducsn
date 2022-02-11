@@ -23,9 +23,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
         src="https://raw.githubusercontent.com/simple-icons/simple-icons/47e4a69724ab28b4bb77e2a369505d8ddd69a07b/icons/css3.svg"
         alt="">
     </img>
-    <img style="width: 40px; margin: 10px;"
-        src="https://img.shields.io/badge/javascript-JS-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://javascript.info/"
-        alt="">
+    <img src="https://img.shields.io/badge/javascript-JS-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://javascript.info/" alt="">
     </img>
     <img style="width: 40px; margin: 10px;" src="https://unpkg.com/simple-icons@6.9.0/icons/visualstudio.svg" alt="">
     </img>
