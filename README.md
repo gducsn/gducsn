@@ -7,7 +7,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <p align="center">
     <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
             height="400"></a>
-    <a href="#"><img src="https://media.giphy.com/media/BTkRLKjxhIkvPnM3ID/giphy-downsized-large.gif" alt="Coder GIF" width="500"
+    <a href="#"><img src="" alt="Coder GIF" width="500"
             height="400"></a>
 
 </p>
