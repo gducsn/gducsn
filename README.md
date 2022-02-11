@@ -7,10 +7,9 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <p align="center">
     <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
             height="400"></a>
-    <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"
+    <a href="#"><img src="https://giphy.com/embed/BTkRLKjxhIkvPnM3ID" alt="Coder GIF" width="500"
             height="400"></a>
-    
-    <iframe src="https://giphy.com/embed/BTkRLKjxhIkvPnM3ID" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-and-white-offset-nft-art-BTkRLKjxhIkvPnM3ID">via GIPHY</a></p>
+
 </p>
 <br>
 <br>
