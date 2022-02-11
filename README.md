@@ -14,10 +14,9 @@ I am currently studying to become a front end developer. In the meantime, I prod
 
 <br>
 
-<p align="left" style="margin: 40px;">
-   
-    <img src="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://it.wikipedia.org/wiki/HTML5"alt="">
-    </img>
+<p align="left">
+<img src="https://img.shields.io/badge/HTML-5-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://it.wikipedia.org/wiki/HTML5"alt="">
+</img>
     
     
     
