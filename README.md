@@ -23,7 +23,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
 </img>
 <img src="https://img.shields.io/badge/GITHUB-GIT-black?style=for-the-badge&logo=appveyor?link=http://left&link=https://github.com/" alt="">
 </img>
-<img src="https://img.shields.io/badge/Adobe%20-AF-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Adobe_After_Effects" alt="">
+<img src="https://img.shields.io/badge/Adobe%20-AAE-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Adobe_After_Effects" alt="">
 </img>
 <img src="https://img.shields.io/badge/Adobe%20-PH-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Adobe_Photoshop" alt="">
 </img>
