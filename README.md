@@ -7,8 +7,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <p align="center">
 
 </p>
-<h3>Languages and Tools &#128296</h3>
 <br>
+<h3>Languages and Tools &#128296</h3>
 
 <p align="left">
 <a href="https://it.wikipedia.org/wiki/HTML5" target="_blank">
@@ -29,7 +29,7 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <img src="https://img.shields.io/badge/ABLETON%20-LIVE-black?style=for-the-badge&logo=appveyor?link="></img></a>
     
 </p>
-<br>
+
 <br>
 
 <h3>Connect with me ⛓</h3>
