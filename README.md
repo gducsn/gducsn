@@ -29,8 +29,6 @@ I am currently studying to become a front end developer. In the meantime, I prod
 </img>
 <img src="https://img.shields.io/badge/OFFICE%20-MSOffice-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Microsoft_Office" alt="">
 </img>
-<img src="https://img.shields.io/badge/OFFICE%20-MSOffice-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Microsoft_Office" alt="">
-</img>
 <img src="https://img.shields.io/badge/ABLETON%20-LIVE-black?style=for-the-badge&logo=appveyor?link=https://it.wikipedia.org/wiki/Ableton_Live" alt="">
 </img>
 
