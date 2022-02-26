@@ -23,8 +23,6 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <img src="https://img.shields.io/badge/Adobe%20-AAE-black?style=for-the-badge&logo=appveyor?link="></img></a>
 <a href="https://it.wikipedia.org/wiki/Adobe_Photoshop" target="_blank">
 <img src="https://img.shields.io/badge/Adobe%20-PH-black?style=for-the-badge&logo=appveyor?link"></img></a>
-<a href="https://it.wikipedia.org/wiki/Microsoft_Office" target="_blank">
-<img src="https://img.shields.io/badge/OFFICE%20-MSOffice-black?style=for-the-badge&logo=appveyor?link="></img></a>
 <a href="https://it.wikipedia.org/wiki/Ableton_Live" target="_blank">
 <img src="https://img.shields.io/badge/ABLETON%20-LIVE-black?style=for-the-badge&logo=appveyor?link="></img></a>
     
