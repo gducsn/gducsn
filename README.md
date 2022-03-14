@@ -25,6 +25,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 <img src="https://img.shields.io/badge/Adobe%20-PH-black?style=for-the-badge&logo=appveyor?link"></img></a>
 <a href="https://angular.io/" target="_blank">
 <img src="https://img.shields.io/badge/Angular-JS-black?style=for-the-badge&logo=appveyor?link%22"></img></a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://img.shields.io/badge/Typescript-TS-black?style=for-the-badge&logo=appveyor?link%22"></img></a>
 <a href="https://it.wikipedia.org/wiki/Ableton_Live" target="_blank">
 <img src="https://img.shields.io/badge/ABLETON%20-LIVE-black?style=for-the-badge&logo=appveyor?link="></img></a>
     
