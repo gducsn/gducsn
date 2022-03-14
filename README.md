@@ -40,8 +40,8 @@ I am currently studying to become a front end developer. In the meantime, I prod
 
 <p align="left">
 
-<a href="https://www.instagram.com/gducsn" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-IG-black?style=for-the-badge&logo=appveyor?link="></img></a>
+<a href="https://www.linkedin.com/in/guidocusani" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-LI-black?style=for-the-badge&logo=appveyor?link%22"></img></a>
 <a href="mailto:gducsngmail.com" target="_blank">
 <img src="https://img.shields.io/badge/EMAIL-GMAIL-black?style=for-the-badge&logo=appveyor?link="></img></a>
 </p>
